@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Винсент Вега",
+        "email": "vincent.vega@badmotherfucker.com",
+        "phone": "+79261112233",
+        "city": "Лос-Анджелес",
+        "address": "823 Sunset Blvd, Apartment 4B"
+    },
+    {
+        "name": "Джулс Винчестер",
+        "email": "jules.winnfield@godsdog.com",
+        "phone": "+79264445566",
+        "city": "Лос-Анджелес",
+        "address": "1210 S. Vermont Ave, Apt 3C"
+    },
+    {
+        "name": "Миа Уоллес",
+        "email": "mia.wallace@jackrabbit.slim.com",
+        "phone": "+79267778899",
+        "city": "Беверли-Хиллз",
+        "address": "1000 N. Canon Dr, Penthouse 5"
+    },
+    {
+        "name": "Бутч Кулидж",
+        "email": "butch.coolidge@prizefighter.ru",
+        "phone": "+79262223344",
+        "city": "Палм-Спрингс",
+        "address": "455 W. Palm Canyon Dr, Unit 12"
+    },
+    {
+        "name": "Марселлас Уоллес",
+        "email": "marsellus@bigman.com",
+        "phone": "+79265556677",
+        "city": "Лос-Анджелес",
+        "address": "777 Alameda St, Suite 800"
+    },
+    {
+        "name": "Фабьен",
+        "email": "fabienne@motorcycle.com",
+        "phone": "+79268889900",
+        "city": "Лонг-Бич",
+        "address": "3400 E. Anaheim St"
+    },
+    {
+        "name": "Эндри Уэсли",
+        "email": "captainkirk@julesfriend.com",
+        "phone": "+79261230001",
+        "city": "Лос-Анджелес",
+        "address": "2100 S. Grand Ave, Apt 7"
+    },
+    {
+        "name": "Линда",
+        "email": "linda@jackrabbit.com",
+        "phone": "+79261230002",
+        "city": "Бербанк",
+        "address": "3000 W. Alameda Ave, Unit 5A"
+    }
+]

@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+# Исключаем виртуальное окружение и временные файлы
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.sqlite3
+.env
+.idea/
+docs/_build/
+
